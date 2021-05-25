@@ -1,4 +1,4 @@
-# MNIST_Net
+# MNIST_DigitRecognization
 Three layer feed forward neural net for classifying handwritten digits 0-9 from the MNIST data set
 
 기존 MNIST Dataset을 MNISTTestData(49000개) 와 MNISTTraingData(21000개)로 분할
